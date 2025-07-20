@@ -34,7 +34,7 @@
        		"cost": 200,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["Provides 1 Artist and 1 Engineer specialist slots."],
+		"uniques": ["Comment [Provides 1 Artist and 1 Engineer specialist slots]"],
 		"requiredTech": "Chivalry"
 	},
 {
