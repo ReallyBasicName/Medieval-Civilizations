@@ -189,7 +189,7 @@
 		"replaces": "Great General",
 		"upgradesTo": "Knight",
 		"promotions": ["Kavkhan"],
-		"uniques": ["Great Person - [War]","Can instantly construct a [Citadel] improvement <by consuming this unit>","Can start an [8]-turn golden age","Unbuildable","[+1] Sight"]
+		"uniques": ["Great Person - [War]","Can instantly construct a [Citadel] improvement <by consuming this unit>","Empire enters a [8]-turn Golden Age <by consuming this unit>","Unbuildable","[+1] Sight"]
 		"movement": 4
 	},
 		{
