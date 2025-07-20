@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Maganimous King Matthias Corvinus of Hungary, your shining legacy is everlasting. When you came to the Magyar throne, your nation was going through a tumultuous time, threatened as it was from all sides; seeing this with perfect clarity, you established a permanent professional army, and thus the fearsome mercenary Black Army was born: unusual in its size and comparison, it famously incorporated the use of muskets. But perhaps the pinnacle of your reign is the fact that you made Hungary the first country outside Italy to adopt the principles of the Renaissance: learned men from all countries, not just Italy itself, travelled to Hungary to talk about arts, and your legendary library was rivaled only by that of Venice.",
-		"startIntroPart2": "King Matthias the Just, God has called upon you to usher a new epoch of absolute greatness by calling upon your loyal people and lead them to glory? Can you rebuild your legendary library and at the same time let the Black Army serve as both a sword against your enemies and a shield protecting your nation? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "King Matthias the Just, God has called upon you to usher a new epoch of absolute greatness by leading your loyal people to glory. Can you rebuild your legendary library and at the same time let the Black Army serve as both a sword against your enemies and a shield protecting your nation? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
 		"attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
@@ -26,8 +26,8 @@
 		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
 		"tradeRequest": "I've got an offer. Are you interested?",
 
-		"outerColor": [61, 105, 55],
-		"innerColor": [205, 131, 32],
+		"outerColor": [54, 91, 49],
+		"innerColor": [212, 149, 65],
 		"uniqueName": "Patronage of the Raven",
 		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"],
 		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
@@ -42,7 +42,7 @@
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Greetings, Po Binasuor, last great king of Champa! Your enemies have never ceased to tremble at your legend! An Austronesian people, the Cham came to occupy a key position on the Indochinese coast mediating international sea trade with China. Yet, lacking the fertile rice fields of their neighbors, Champa grew to exploit these lucrative waters and developed a unique plunder based economy, gaining notoriety throughout the region for piracy. Champa would represent a melting-pot of Southeast Asia, introducing technology from China, trading with Indonesian merchants, intermarrying with the Khmer kings, and building unforgettable temples to the gods of ancient India. Yet, seemingly always at war, Champa fell, broken and desolate, to conquerors from the north.",
-		"startIntroPart2": "Red King, it was you who reunited the tattered remains of your people and, outnumbered six to one, almost claimed victory over your bitter enemies, the Dai Viet! Will you now return to recalim your lost homeland? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Red King, it was you who reunited the tattered remains of your people and, outnumbered six to one, almost claimed victory over your bitter enemies, the Dai Viet! Will you now return to reclaim your lost homeland? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We tolerated you way longer than we should, and now we demand you pay with your blood.",
 		"attacked": "We will ensure you will remember the day you turned on us.",
@@ -61,8 +61,8 @@
 		"afterPeace": "I hope this won't happen again and even if it does - We've learned a lesson!",
 		"tradeRequest": "Will this work or do I need to propose you a better deal?",
 
-		"outerColor": [	78, 154, 230],
-		"innerColor": [	204, 56, 53],
+		"outerColor": [122, 179, 236],
+		"innerColor": [157, 46, 44],
 		"uniqueName": "Traders of the Shore",
 		"uniques": ["[+1 Gold] from every [Luxury resource]","[1] Movement point cost to disembark <for [All] units>","[1] Movement point cost to embark <for [All] units>","[+1 Culture] from every [Trading post]"],
 		"cities": ["Indrapura","My So'n","Vijaya","Mang Ly","Lam Ap Pho","Amaravati","Kauthara","Panduranga",
@@ -165,8 +165,8 @@
 		"afterPeace": "See? One can live the 'pagans'!",
 		"tradeRequest": "Here is an offer that might benefit both of us.",
 
-		"outerColor": [166, 22, 51],
-		"innerColor": [75, 156, 245],
+		"outerColor": [151, 21, 47],
+		"innerColor": [93, 165, 246],
 		"uniqueName": "Worship of the Old Gods",
 		"uniques": ["[+1 Faith] [in all cities] <before the [Medieval era]>"]
 		"cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
@@ -179,8 +179,8 @@
 		"adjective": ["Irish"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
 		"declaringWar": "You shall taste our steel! May the luck be with you, because that's the only thing to save you!",
 		"attacked": "How dare You! You will beg for mercy!",
@@ -213,7 +213,7 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Blessings upon you, O' great king Songtsen Gampo Gampo, founder of the proud Tibetan Empire. Under your reign you threatened the rule of many ancient kingdoms - China and India to name but two. You are also famed for your introduction of Buddhism to your empire, a legacy which has lasted far beyond that of your empire. Through your cunning diplomacy you created many loyal subjects and vassals amongst the neighbouring kingdoms, which in turn helped to cement the position of Tibet. After your passing, Tibet continued to be a prosperous empire for centuries, ruling over a swath of empire from China in the east to Pakistan in the west and the Indian Ocean in the South. But after several hundred years of central rule, the empire succumbed to the greed of man and collapsed into civil war, marking the end of Tibet as a power; from that age, Tibet has succumbed to invasion from those it once commanded, and to this day remains within the realm of the Chinese.",
+		"startIntroPart1": "Blessings upon you, O' great king Songtsen Gampo Gampo, founder of the proud Tibetan Empire. Under your reign you threatened the rule of many ancient kingdoms - China and India to name but two. You are also famed for your introduction of Buddhism to your empire, a legacy which has lasted far beyond that of your empire. Through your cunning diplomacy you created many loyal subjects and vassals amongst the neighbouring kingdoms, which in turn helped to cement the position of Tibet. After your passing, Tibet continued to be a prosperous empire for centuries, ruling over a swath of empire from China in the east to Pakistan in the west and the Indian Ocean in the South. But after several hundred years of central rule, the empire succumbed to the greed of man and collapsed into civil war, marking the end of Tibet as a power; from there, Tibet was invaded and conquered by those it once commanded, and to this day remains within the realm of the Chinese.",
 		"startIntroPart2": "O' Great Emperor, the wheel turns once again! Your diplomatic skills, your will to power and your determination are legend! Will you spread the tenets of Buddhism in this new world? Can you extend your boundaries by marriage and sword? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "It is your time to pass the Trial of Avalanche!",
@@ -233,8 +233,8 @@
 		"afterPeace": "Let this peace be eternal, like the peaks of Tibet!",
 		"tradeRequest": "Are you interested?",
 
-		"outerColor": [95, 163, 118],
-		"innerColor": [195, 227, 220],
+		"outerColor": [79, 133, 97],
+		"innerColor": [207, 232, 227],
 		"uniqueName": "The Roof of the World",
 		"uniques": ["[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]"],
 		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
@@ -247,8 +247,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Great Tsar Simeon I, ruler of one of the greatest European empires, your people is ready for your leadership once again. The Bulgarian Empire lasted over seven centuries, but it was a reign of war and tears. During your reig, Bulgaria reached its greatest territorial expansion, only possible due to your successful military campaigns against Byzantnes, Magyars and Serbs. It was a time of cultural apogee, and your empire became the library and spiritual centre of Slavic Europe thanks to your policies. Nearly one hundred years after your death, in 1018, Bulgaria lost her sovereignty to Byzantium, but it was restored in the uprising of 1185, where Bulgaria crushed the Latin empire once more defeated. But what proved too strong were the Arab Sultans, as your empire crumbled beneath an Ottoman invasion in the XV century.",
-		"startIntroPart2": "Simeon I the Great, we have summoned you from the embrace of God once again! Bulgaria rises, and its leader bust be both wise and ruthless. Will you reestablish those great cultural and scientific institutions? Will you outsmart and overcome your enemies with the cunning and brutality of a true Tsar? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Great Tsar Simeon I, ruler of one of the greatest European empires, your people is ready for your leadership once again. The Bulgarian Empire lasted over seven centuries, but it was a reign of war and tears. During your reign, Bulgaria reached its greatest territorial expansion, only possible due to your successful military campaigns against Byzantnes, Magyars and Serbs. It was a time of cultural apogee, and your empire became the literary and spiritual centre of Slavic Europe thanks to your policies. Nearly one hundred years after your death, in 1018, Bulgaria lost her sovereignty to Byzantium, but it was restored in the uprising of 1185, where Bulgaria crushed the Latin empire once more defeated. But what proved too strong were the Arab Sultans, as your empire crumbled beneath an Ottoman invasion in the XV century.",
+		"startIntroPart2": "Simeon I the Great, we have summoned you from the embrace of God once again! Bulgaria rises, and its leader must be both wise and ruthless. Will you reestablish those great cultural and scientific institutions? Will you outsmart and overcome your enemies with the cunning and brutality of a true Tsar? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Ready your horses my warriors! This day, we ride to war!",
 		"attacked": "What? I thought you are smarter!",
@@ -267,8 +267,8 @@
 		"afterPeace": "Peace is boring, but necessary. Warriors need rest!",
 		"tradeRequest": "I've got new spoils of war. Are you interested?",
 
-		"outerColor": [207, 93, 121],
-		"innerColor": [32, 66, 36],
+		"outerColor": [209, 101, 127],
+		"innerColor": [31, 63, 35],
 		"uniqueName": "Cirillic Script",
 		"uniques": ["[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>"],
 		"cities": ["Pliska","Tarnovo","Nesebar","Sofia","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
@@ -282,8 +282,8 @@
 		"startBias": ["Coast","Tundra"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
 		"declaringWar": "I will drink from your skull!",
 		"attacked": "You fool! Do you really think you can beat me?!",
@@ -315,8 +315,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Live long and prosper, Simone Boccanegra, Doge of mighty Genoa! Your reign was marked by an intense cliud of intrigue and subterfuge. Genoa, one of the contending powers for domination of the Mediterranean, was ruled by an aristocratic elite. Once elected Doge, you disposed of the established upper class in a revolutionary upheaval that would forever change Genoa's political landscape. Entrenched in a long war with Venice, that would eventually be lost, you fought off would-be assassins and rivals for five long years before being forced to resign. But your successors were less tenacious as you, and soon enough you came back to power. Your rule would last another seven years, before a poisoning attempt was finally successful.",
-		"startIntroPart2": "Revolutionari Doge, your people are once again surrounded by enemies plotting Genoa's demise. Will you see through the ploys of your many rivals, and once again establish Genoa as a force to be reckoned with? Will you seize control of the seas, and establish dominance over the trade routes of this new world? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Live long and prosper, Simone Boccanegra, Doge of mighty Genoa! Your reign was marked by an intense cloud of intrigue and subterfuge. Genoa, one of the contending powers for domination of the Mediterranean, was ruled by an aristocratic elite. Once elected Doge, you disposed of the established upper class in a revolutionary upheaval that would forever change Genoa's political landscape. Entrenched in a long war with Venice, that would eventually be lost, you fought off would-be assassins and rivals for five long years before being forced to resign. But your successors were much less capable and tenacious as you, and soon enough you came back to power. Your rule would last another seven years, before a poisoning attempt was finally successful.",
+		"startIntroPart2": "Revolutionary Doge, your people are once again surrounded by enemies plotting Genoa's demise. Will you see through the ploys of your many rivals, and once again establish Genoa as a force to be reckoned with? Will you seize control of the seas, and establish dominance over the trade routes of this new world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I think we might have conflicting interests, actually - I am certain!",
 		"attacked": "I hope you studied that thoroughly, because there will be no mercy.",
@@ -349,7 +349,7 @@
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Blessings upon His Holiness, Pope Innocent III, sovereign of the Papal States. As the Catholic Church's most powerfull Pontiff, you reigned supreme over the crowned heads of Europe. Rooting out heresy wherever it dwelt, you presided over the Churches' most important reforms as well as her most infamous crusades. Commanding the Christian faith with diplomatic skill and political acumen, you papacy would mark the height of its power on earth.",
-		"startIntroPart2": "Your Holiness, the kingdom of God beckons you once more. Her loyal crusaders ready their swords and await your command. Can you lead the Church in these trying times? Can you ensure its teachings are spread across the world? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Your Holiness, the kingdom of God beckons you once more. Your loyal crusaders ready their swords and await your command. Can you lead the Church in these trying times? Can you ensure its teachings are spread across the world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "It is the time you should learn the God's will. There is no place for heresy!",
 		"attacked": "I excommunicate you, burn in hell!",
